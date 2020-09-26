@@ -23,7 +23,7 @@ public class WebSocketController {
     }
 
     // doesn't use -> old code
-    // do something here
+//do something here and again
     //    @MessageMapping("/chat.sendMessage")
 //    @SendTo("/topic/publicChatRoom")
 //    public ChatMessage sendMessage(@Payload ChatMessage chatMessage) {
