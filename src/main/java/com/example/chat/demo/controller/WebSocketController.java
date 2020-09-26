@@ -22,6 +22,7 @@ public class WebSocketController {
         this.messaging = messaging;
     }
 
+    // doesn't use -> old code delete here something from develop
     // doesn't use -> old code
     //    @MessageMapping("/chat.sendMessage")
 //    @SendTo("/topic/publicChatRoom")
